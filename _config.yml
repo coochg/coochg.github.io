@@ -1,12 +1,12 @@
 # Site settings
 title: A blog about Congcheng (Gavin) Gong
 description: A blog about Congcheng (Gavin) Gong
-baseurl: "/blog" # the subpath of your site, e.g. /blog
-url: "http://coochg.me" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+#baseurl: "/blog" # the subpath of your site, e.g. /blog
+#url: "http://coochg.me" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: Congcheng's World
-user_description: Bicycle rights irony actually neutra typewriter lyft. Man bun taxidermy put a bird on it, umami yr ramps pop-up ugh bushwick chia lo-fi. Occupy bitters pour-over snackwave you probably haven't heard of them small batch. Cornhole mustache man bun letterpress echo park VHS.
+user_description: My name is Congcheng (Gavin) Gong. 
 user_title: Software Developer
 email: gong.co@northeastern.edu
 twitter_username: coochg
