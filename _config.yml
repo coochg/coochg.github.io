@@ -1,8 +1,8 @@
 # Site settings
 title: Congcheng (Gavin)'s World
 description: A blog about Congcheng (Gavin) Gong
-baseurl: "/blog" # the subpath of your site, e.g. /blog
-url: "http://coochg.github.io" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+#baseurl: "/blog" # the subpath of your site, e.g. /blog
+#url: "http://coochg.github.io" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: Congcheng's World
